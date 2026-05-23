@@ -1,7 +1,7 @@
 ## CPI inflation trend analysis- India 2019
 ## What I explored- How the CPI changed every month in 2019 in India
 #Key findings- CPI was at its lowest in Jan of 2019 
-- showed a steeady upward trend through the mid of the year
+- showed a steady upward trend through the mid of the year
 - became constant around June to July at 3.15 to 3.18
 - spiked sharply from September- nearly double of January's value
 - overall inflation doubled over the year
